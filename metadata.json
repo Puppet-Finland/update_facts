@@ -1,0 +1,11 @@
+{
+  "name": "puppetfinland-update_facts",
+  "version": "0.2.0",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Simple facts that show pending updates and the need to reboot",
+  "source": "https://github.com/Puppet-Finland/update_facts.git",
+  "project_page": "https://github.com/Puppet-Finland/update_facts",
+  "dependencies": [
+  ]
+}
