@@ -15,5 +15,6 @@
 # BSD-license. See file LICENSE for details.
 #
 class update_facts {
-    # Empty
+
+    include ::update_notifier
 }

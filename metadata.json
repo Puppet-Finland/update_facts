@@ -7,5 +7,6 @@
   "source": "https://github.com/Puppet-Finland/update_facts.git",
   "project_page": "https://github.com/Puppet-Finland/update_facts",
   "dependencies": [
+    { "name": "puppetfinland/update_notifier", "version_requirement": ">= 0.2.0" }
   ]
 }
